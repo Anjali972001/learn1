@@ -20,3 +20,9 @@ class B extends A
         b.show();
     }
 }
+/* A class of method
+   class B method
+   A class of Method
+
+   Example of -----> Single inheritance
+ */
