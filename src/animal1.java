@@ -12,4 +12,5 @@ public class animal1 {
     void run(){
         System.out.println("I am running.");
     }
-}
+}//I am running
+//I am eating
