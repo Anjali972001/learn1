@@ -18,4 +18,7 @@ public class animal2 {
     {
         System.out.println("I am running");
     }
-}
+}/*  I am eating
+     I am running
+     I am eating
+     I am running */
